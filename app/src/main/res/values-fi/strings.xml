@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english_language_short">Englanti</string>
+    <string name="finnish_language_short">Suomi</string>
+    <string name="connect_button">Yhdistä</string>
+    <string name="bluetooth_disabled_warning">Bluetooth on pois päältä</string>
+    <string name="device_selection">Yhdistä laitteeseen</string>
+    <string name="device_selection_dropdown">Valitse laite</string>
+    <string name="exit_button">Poistu</string>
+    <string name="refresh_button">Skannaa uudelleen</string>
+    <string name="highlight_button">Lisää merkintä</string>
+    <string name="data_on">Lopeta kerääminen</string>
+    <string name="data_off">Käynnistä kerääminen</string>
+    <string name="data_header">Sykemonitori</string>
+    <string name="toggle_data">Sykedatan kerääminen</string>
+    <string name="exit_confirmation">Haluatko poistua?</string>
+    <string name="disconnect_button">Katkaise yhteys</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="no_devices_available">Laitteita ei ole saatavilla</string>
+    <string name="missing_permissions">Sovellukselta puuttuu Bluetooth-oikeudet</string>
+    <string name="connection_hint">Jos et näe laitetta listalla, varmista että se on käynnistetty</string>
+    <string name="save_file">Tallenna</string>
+    <string name="default_preview">Ei laitetietoa</string>
+    <string name="default_history">Ei dataa</string>
+    <string name="disconnect_warning">"Haluatko katkaista yhteyden? Kaikki tallentamattomat tiedot poistetaan! "</string>
+    <string name="clear">Tyhjennä</string>
+    <string name="clear_warning">Haluatko tyhjentää historian? Kaikki tallentamattomat tiedot poistetaan!</string>
+    <string name="save_notice">Tiedostoa ei voi tallentaa samalla kun dataa kerätään.</string>
+    <string name="save_success">Tiedosto tallennettu latauksiin</string>
+    <string name="save_failed">Tiedoston tallentaminen epäonnistui!</string>
+    <string name="goggles_on">Lasit päähän</string>
+    <string name="exercise_begins">Harjoitus alkaa</string>
+    <string name="activity">Toimenpide</string>
+    <string name="exercise_ends">Harjoitus loppuu</string>
+    <string name="other">Muu</string>
+    <string name="bpm">BPM</string>
+    <string name="packet_timestamp">Aikaleima</string>
+    <string name="heart_rate_bpm">Syke (BPM)</string>
+    <string name="rr_interval_ms">RR-väli (ms)</string>
+    <string name="highlight">Merkintä</string>
+    <string name="no_data_notice">Ei tallennettavaa dataa</string>
+    <string name="metadata_lower">metadata</string>
+    <string name="from_start">Aika alusta</string>
+    <string name="recording_recovery_notice">Lopettamaton tallenne löytyi laitteesta. Tallennatko sne tiedostoihin?</string>
+</resources>
