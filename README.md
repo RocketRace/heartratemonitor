@@ -2,4 +2,4 @@ A simple Android app that connects to Polar heart rate devices, and collects ECG
 
 Originally developed in 2021 to aid in a PHD project.
 
-This project uses the Polar SDK. For terms of the SDK license, see `POLAR_SDK_LICENSE.md`. For this repository's license, see `LICENSE.md`.
+This project uses the Polar SDK. For terms of the SDK license, see `POLAR_SDK_LICENSE.md`. For the license used in the rest of the repository, see `LICENSE.md`.
